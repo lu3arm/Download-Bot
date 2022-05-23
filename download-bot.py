@@ -1,3 +1,4 @@
+#IMPORTING-MODULES
 try:
     import selenium
     import time, os, platform
@@ -12,6 +13,7 @@ except:
     input("Press Enter to Exit ")
     quit()
 
+#TITLE
 print("""
   _____   ______          ___   _ _      ____          _____             ____   ____ _______ 
  |  __ \ / __ \ \        / / \ | | |    / __ \   /\   |  __ \           |  _ \ / __ \__   __|
